@@ -34,56 +34,16 @@ This is a simple command-line To-Do List application implemented in Python. It a
 - Task data is serialized and deserialized using the `pickle` module for saving and loading from files.
 
 ## Sample Usage
-Add Task
-List Tasks
-Update Task
-Delete Task
-Save to File
-Load from File
-Exit
-Enter your choice: 1
-Enter task title: Complete project
-Enter task description: Finish the To-Do List application
-Add Task
-List Tasks
-Update Task
-Delete Task
-Save to File
-Load from File
-Exit
-Enter your choice: 2
-Complete project - Pending
-Add Task
-List Tasks
-Update Task
-Delete Task
-Save to File
-Load from File
-Exit
-Enter your choice: 3
-Enter the index of the task to update: 1
-Enter new title: Complete project
-Enter new description: Finish the To-Do List application project
-Is task completed? (True/False): True
-Complete project - Completed
-Add Task
-List Tasks
-Update Task
-Delete Task
-Save to File
-Load from File
-Exit
-Enter your choice: 5
-Enter filename to save: todo_list_backup.pkl
-Tasks saved to file successfully.
-Add Task
-List Tasks
-Update Task
-Delete Task
-Save to File
-Load from File
-Exit
-Enter your choice: 7
+		1.Add Task
+		2.List Tasks
+		3.Update Task
+		4.Delete Task
+		5.Save to File
+		6.Load from File
+		7.Exit
+		Enter your choice: 1
+		Enter task title: Complete project
+		Enter task description: Finish the To-Do List application
 
 
 ## Author
